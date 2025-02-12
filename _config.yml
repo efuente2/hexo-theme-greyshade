@@ -1,19 +1,17 @@
 menu:
   page:
-    首页: .
-    专题: categories/
-    关于: life/
-    搜索: search/
+    Home: .
+    Search: categories/
+    Life: about/
 
 sidePic: https://p.ipic.vip/b2t3my.jpg
-avatar: https://p.ipic.vip/67o2jq.jpg
+avatar: https://media.licdn.com/dms/image/v2/D4E03AQG65iFp_C-z3w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718586178725?e=1744848000&v=beta&t=2bNr8i1wRwC_YqoDZ1Hu5RNWnunIzXe0nkUE3Ttz_xo
 
 excerpt_link: 继续阅读
 excerpt: 200
 
 social:
-  github: thinkerchan
-  yuque: thinkerchan
+  github: efuente2
   juejin: 201965868418951
   rss: false
 
